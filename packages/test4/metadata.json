@@ -1,0 +1,15 @@
+{
+  "name": "test4",
+  "description": "Package containing .\\testrule.mdc",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "sha256": "0fc0900db93ae1ce01e206fc881cf4edd3e21a802d7e8f94dd3c562a59172f0d",
+      "size": 297,
+      "published_at": "2025-09-09T20:45:39.6335105+01:00"
+    }
+  ],
+  "created_at": "2025-09-09T20:45:39.634539+01:00",
+  "updated_at": "2025-09-09T20:45:39.634539+01:00"
+}
