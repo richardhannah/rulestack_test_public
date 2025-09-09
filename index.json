@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2025-09-09T20:30:00.9792322+01:00",
+  "updated_at": "2025-09-09T20:30:03.72197+01:00",
   "package_count": 0,
   "packages": {
     "example-rules": {
@@ -14,6 +14,12 @@
       "description": "Package containing .\\testrule.mdc",
       "latest": "1.0.0",
       "updated_at": "2025-09-09T20:30:00.9792322+01:00"
+    },
+    "test-rules2": {
+      "name": "test-rules2",
+      "description": "Package containing .\\testrule.mdc",
+      "latest": "1.0.0",
+      "updated_at": "2025-09-09T20:30:03.72197+01:00"
     },
     "testrules": {
       "name": "testrules",
