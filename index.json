@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2025-09-09T20:21:35.5055529+01:00",
+  "updated_at": "2025-09-09T20:30:00.9792322+01:00",
   "package_count": 0,
   "packages": {
     "example-rules": {
@@ -8,6 +8,12 @@
       "description": "Package containing rules.mdc",
       "latest": "1.0.0",
       "updated_at": "2025-09-09T20:20:36.8219349+01:00"
+    },
+    "test-rules": {
+      "name": "test-rules",
+      "description": "Package containing .\\testrule.mdc",
+      "latest": "1.0.0",
+      "updated_at": "2025-09-09T20:30:00.9792322+01:00"
     },
     "testrules": {
       "name": "testrules",
